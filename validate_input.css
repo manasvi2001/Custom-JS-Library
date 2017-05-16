@@ -1,0 +1,19 @@
+.red-dot {
+	position: inline-block;
+	min-width: 12px;
+	max-width: 12px;
+	min-height: 12px;
+	max-height: 12px;
+	border-radius: 50%;
+	background-color: red;
+}
+
+.green-dot {
+	position: inline-block;
+	min-width: 12px;
+	max-width: 12px;
+	min-height: 12px;
+	max-height: 12px;
+	border-radius: 50%;
+	background-color: darkgreen;
+}
